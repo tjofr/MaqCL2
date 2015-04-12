@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>VFP_Competitor</fullName>
+        <categories>Competitor</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>VFP Results Competitor Header</shortDescription>
+        <value>Competitor</value>
+    </labels>
+    <labels>
+        <fullName>VFP_Criteria_Title</fullName>
+        <categories>Competitor</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>VFP Criteria Title</shortDescription>
+        <value>Competitor Search</value>
+    </labels>
+    <labels>
+        <fullName>VFP_Err_NoRegion</fullName>
+        <categories>Competitor</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>VFP erro message no region</shortDescription>
+        <value>Please enter region name</value>
+    </labels>
+    <labels>
+        <fullName>VFP_Err_NoSegment</fullName>
+        <categories>Competitor</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>VFP error message no segment</shortDescription>
+        <value>Please enter segment</value>
+    </labels>
+    <labels>
+        <fullName>VFP_Results</fullName>
+        <categories>Competitor</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Search Results</shortDescription>
+        <value>Results</value>
+    </labels>
+    <labels>
+        <fullName>VFP_Search_Button_Label</fullName>
+        <categories>Competitor</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Search Button Label</shortDescription>
+        <value>Submit</value>
+    </labels>
+    <labels>
+        <fullName>VFP_Search_Criteria</fullName>
+        <categories>Competitor</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Section Title Search Criteria</shortDescription>
+        <value>Search Criteria</value>
+    </labels>
+    <labels>
+        <fullName>VFP_Searched_Product</fullName>
+        <categories>Competitor</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Searched Product</shortDescription>
+        <value>Product :</value>
+    </labels>
+    <labels>
+        <fullName>VFP_Searched_Region</fullName>
+        <categories>Competitor</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Searched Region</shortDescription>
+        <value>Region :</value>
+    </labels>
+    <labels>
+        <fullName>VFP_Searched_Segment</fullName>
+        <categories>Competitor</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Searched Segment</shortDescription>
+        <value>Segment :</value>
+    </labels>
+    <labels>
+        <fullName>VFP_Selected</fullName>
+        <categories>Competitor</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>VFP Selected Criteria Message</shortDescription>
+        <value>You have selected :</value>
+    </labels>
+    <labels>
+        <fullName>VFP_SelectedNothing</fullName>
+        <categories>Competitor</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>display nothing selected value</shortDescription>
+        <value>Nothing</value>
+    </labels>
+</CustomLabels>

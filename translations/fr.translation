@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customLabels>
+        <label>Compétiteur</label>
+        <name>VFP_Competitor</name>
+    </customLabels>
+    <customLabels>
+        <label>Recherche Compétiteurs</label>
+        <name>VFP_Criteria_Title</name>
+    </customLabels>
+    <customLabels>
+        <label>Précisez la région</label>
+        <name>VFP_Err_NoRegion</name>
+    </customLabels>
+    <customLabels>
+        <label>Précisez le segment</label>
+        <name>VFP_Err_NoSegment</name>
+    </customLabels>
+    <customLabels>
+        <label>Résultats</label>
+        <name>VFP_Results</name>
+    </customLabels>
+    <customLabels>
+        <label>OK</label>
+        <name>VFP_Search_Button_Label</name>
+    </customLabels>
+    <customLabels>
+        <label>Critères de recherche</label>
+        <name>VFP_Search_Criteria</name>
+    </customLabels>
+    <customLabels>
+        <label>Service :</label>
+        <name>VFP_Searched_Product</name>
+    </customLabels>
+    <customLabels>
+        <label>Province :</label>
+        <name>VFP_Searched_Region</name>
+    </customLabels>
+    <customLabels>
+        <label>Segment :</label>
+        <name>VFP_Searched_Segment</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous avez choisi :</label>
+        <name>VFP_Selected</name>
+    </customLabels>
+    <customLabels>
+        <label>Rien</label>
+        <name>VFP_SelectedNothing</name>
+    </customLabels>
+</Translations>

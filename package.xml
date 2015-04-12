@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>VFCSearch</members>
+        <members>VFCSearchTest</members>
+        <members>VFP_TestDataFactory</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>CompetitorNewsFromGoogle</members>
+        <members>CompetitorTwitterFeed</members>
+        <members>VFPCompetitorDetail</members>
+        <members>VFPCompetitorDetails</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>CustomLabels</members>
+        <name>CustomLabels</name>
+    </types>
+    <types>
+        <members>Competitor_Detail__c</members>
+        <members>Competitor_Details__c</members>
+        <members>Competitor__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Competitor_Details__c</members>
+        <members>Competitor__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Competitor_Detail__c-Competitor Detail Layout</members>
+        <members>Competitor_Details__c-Competitor Detail Layout</members>
+        <members>Competitor__c-Competitor Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Translations</name>
+    </types>
+    <version>31.0</version>
+</Package>
